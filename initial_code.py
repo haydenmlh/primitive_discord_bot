@@ -1,8 +1,6 @@
 # bot.py
 import os
 import random
-import pizzapi
-
 import discord
 from dotenv import load_dotenv
 

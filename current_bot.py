@@ -1,4 +1,4 @@
-# bot_bot.py
+# current_bot.py
 import os
 import random
 from dotenv import load_dotenv
